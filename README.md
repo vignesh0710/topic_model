@@ -10,12 +10,21 @@ Libraries used to run the code:
 sys,os
 
 re (regex)
+
 pandas
+
 numpy
+
 gensim
+
 gensim.corpora
+
 spacy
+
 operator
+
 nltk
+
 collections
+
 langdetect
