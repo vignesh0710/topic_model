@@ -1,11 +1,11 @@
 # topic_model
 Instructions to run the code:
 
-Command:  python file_name.py input_file_path op_file_path
+**Command:**  python file_name.py input_file_path op_file_path
 
-Example Command:  python topic_model.py "/Users/vigneshsureshbabu/Downloads/topic_modeling_data.json" "/Users/vigneshsureshbabu/Documents/op.json"
+**Example Command:**  python topic_model.py "/Users/vigneshsureshbabu/Downloads/topic_modeling_data.json" "/Users/vigneshsureshbabu/Documents/op.json"
 
-Libraries used to run the code:
+**Libraries used to run the code:**
 
 sys,os
 
