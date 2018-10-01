@@ -28,3 +28,5 @@ nltk
 collections
 
 langdetect
+
+**Note:** All the above libraries can be installed with pip
